@@ -13,3 +13,4 @@ hello
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://lastfm.freetls.fastly.net/i/u/ar0/d40afce45f56c976c4783a14d77d8c47.png)
 
  учи матан богачка наша
+Исправление, сделанное удалённо.
